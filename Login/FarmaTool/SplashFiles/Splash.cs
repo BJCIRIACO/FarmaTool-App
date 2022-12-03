@@ -16,11 +16,15 @@ namespace FarmaTool
         {
             
             InitializeComponent();
-            //Temporizador para splash en milisegundos
-             Tiempo.Enabled = true;
+            ///Metodo para cerrar el form
+            Tiempo.Enabled = true;
              Tiempo.Interval = 2000;
         }
-        //Metodo tiempo para cerrar el splash cuando se cumple la condicional
+        /// <summary>
+        /// //Metodo tiempo para cerrar el splash cuando se cumple la condicional
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void Tiempo_Tick(object sender, EventArgs e)
         {
             Tiempo.Stop();

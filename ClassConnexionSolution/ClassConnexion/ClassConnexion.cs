@@ -11,7 +11,11 @@ using System.Windows.Forms;
 namespace ClassConnexion
 {
     public class Class
-    {   //Logica del login 
+    {   /// <summary>
+    /// Logica del login 
+    /// </summary>
+    /// <param name="user"></param>
+    /// <param name="password"></param>
         public void loginlogic(string user, string password)
         {
             try
