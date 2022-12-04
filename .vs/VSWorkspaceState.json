@@ -1,12 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\ClassConnexionSolution",
+    "\\ClassConnexionSolution\\ClassConnexion",
     "\\Login",
     "\\Login\\FarmaTool",
     "\\Login\\FarmaTool\\LoginForm",
     "\\Login\\FarmaTool\\Resources",
     "\\Login\\FarmaTool\\SplashFiles"
   ],
-  "SelectedNode": "\\Login\\FarmaTool\\LoginForm\\Form1.Designer.cs",
+  "SelectedNode": "\\ClassConnexionSolution\\ClassConnexion\\ClassConnexion.cs",
   "PreviewInSolutionExplorer": false
 }

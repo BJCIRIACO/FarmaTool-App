@@ -13,3 +13,17 @@ C:\Users\brayn\source\repos\Login\FarmaTool\obj\Debug\FarmaTool.Splash.resources
 C:\Users\brayn\source\repos\Login\FarmaTool\bin\Debug\ClassConnexion.dll
 C:\Users\brayn\source\repos\Login\FarmaTool\bin\Debug\ClassConnexion.pdb
 C:\Users\brayn\source\repos\Login\FarmaTool\obj\Debug\FarmaTool.csproj.CopyComplete
+C:\Users\brayn\source\repos\FarmaTool\Login\FarmaTool\bin\Debug\FarmaTool.exe.config
+C:\Users\brayn\source\repos\FarmaTool\Login\FarmaTool\bin\Debug\FarmaTool.exe
+C:\Users\brayn\source\repos\FarmaTool\Login\FarmaTool\bin\Debug\FarmaTool.pdb
+C:\Users\brayn\source\repos\FarmaTool\Login\FarmaTool\bin\Debug\ClassConnexion.pdb
+C:\Users\brayn\source\repos\FarmaTool\Login\FarmaTool\obj\Debug\FarmaTool.csproj.AssemblyReference.cache
+C:\Users\brayn\source\repos\FarmaTool\Login\FarmaTool\obj\Debug\FarmaTool.csproj.SuggestedBindingRedirects.cache
+C:\Users\brayn\source\repos\FarmaTool\Login\FarmaTool\obj\Debug\FarmaTool.Form1.resources
+C:\Users\brayn\source\repos\FarmaTool\Login\FarmaTool\obj\Debug\FarmaTool.Properties.Resources.resources
+C:\Users\brayn\source\repos\FarmaTool\Login\FarmaTool\obj\Debug\FarmaTool.Splash.resources
+C:\Users\brayn\source\repos\FarmaTool\Login\FarmaTool\obj\Debug\FarmaTool.csproj.GenerateResource.cache
+C:\Users\brayn\source\repos\FarmaTool\Login\FarmaTool\obj\Debug\FarmaTool.csproj.CoreCompileInputs.cache
+C:\Users\brayn\source\repos\FarmaTool\Login\FarmaTool\obj\Debug\FarmaTool.csproj.CopyComplete
+C:\Users\brayn\source\repos\FarmaTool\Login\FarmaTool\obj\Debug\FarmaTool.exe
+C:\Users\brayn\source\repos\FarmaTool\Login\FarmaTool\obj\Debug\FarmaTool.pdb

@@ -1,6 +1,0 @@
-C:\Users\brayn\source\repos\ClassConnexionSolution\ClassConnexion\bin\Debug\ClassConnexion.dll
-C:\Users\brayn\source\repos\ClassConnexionSolution\ClassConnexion\bin\Debug\ClassConnexion.pdb
-C:\Users\brayn\source\repos\ClassConnexionSolution\ClassConnexion\obj\Debug\ClassConnexion.csproj.AssemblyReference.cache
-C:\Users\brayn\source\repos\ClassConnexionSolution\ClassConnexion\obj\Debug\ClassConnexion.csproj.CoreCompileInputs.cache
-C:\Users\brayn\source\repos\ClassConnexionSolution\ClassConnexion\obj\Debug\ClassConnexion.dll
-C:\Users\brayn\source\repos\ClassConnexionSolution\ClassConnexion\obj\Debug\ClassConnexion.pdb
