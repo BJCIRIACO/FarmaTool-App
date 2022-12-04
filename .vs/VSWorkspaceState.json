@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Login",
+    "\\Login\\FarmaTool",
+    "\\Login\\FarmaTool\\LoginForm",
+    "\\Login\\FarmaTool\\Resources",
+    "\\Login\\FarmaTool\\SplashFiles"
+  ],
+  "SelectedNode": "\\Login\\FarmaTool\\LoginForm\\Form1.Designer.cs",
+  "PreviewInSolutionExplorer": false
+}
